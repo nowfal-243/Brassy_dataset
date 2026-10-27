@@ -1,0 +1,38 @@
+id,name,instructor_id,batchNo,isActive,isUpcoming,created_at,updated_at
+b93d0525-9d89-48ce-8c5b-ba78855df63b,Data Visualization with Power BI - Batch 1,ebb7a385-aa0b-4b14-b2e9-702d11e9cdaa,B-2025-01,1,0,2025-09-16 05:38:05,2025-09-16 05:38:05
+9cbe051d-9696-4a9b-85da-d18f466886d1,Data Visualization with Power BI - Batch 2,ebb7a385-aa0b-4b14-b2e9-702d11e9cdaa,B-2026-01,1,0,2026-05-11 05:38:05,2026-10-17 08:43:20
+71b7a9b3-5b01-4c96-ac80-ced30b8dd20e,Mobile App UI Design - Batch 1,3d1a85dd-506e-4a9a-b758-588dab73295b,B-2025-02,1,0,2025-04-28 22:19:54,2026-07-11 17:31:42
+6fcd847c-8ece-4c56-93da-e4ff9e00fe91,Mobile App UI Design - Batch 2,3d1a85dd-506e-4a9a-b758-588dab73295b,B-2025-03,1,0,2025-11-20 22:19:54,2026-09-13 23:16:29
+f958fff4-2536-4fff-913d-0f103e5521ec,Mobile App UI Design - Batch 3,3d1a85dd-506e-4a9a-b758-588dab73295b,B-2026-02,1,0,2026-05-02 22:19:54,2026-05-02 22:19:54
+b1673c86-ccf9-4b5b-9f37-c64984a0c59e,Statistics for Data Analysis - Batch 1,a2086977-a9f2-4336-83f4-a9a948a639d0,B-2025-04,0,0,2025-05-30 15:07:54,2025-05-30 15:07:54
+6c9e53cb-ad6b-4c19-a90d-40b14012b2a4,Statistics for Data Analysis - Batch 2,a2086977-a9f2-4336-83f4-a9a948a639d0,B-2025-05,0,0,2025-10-26 15:07:54,2025-10-26 15:07:54
+697c19e1-93ae-4447-93a6-12235b621d25,Data Analyst Bootcamp - Batch 1,27cb6f2a-8da0-4097-be0f-051b1b66b5a9,B-2025-06,1,0,2025-05-26 14:42:50,2025-05-26 14:42:50
+7436b551-a8b9-404c-9198-91720d648971,Data Analyst Bootcamp - Batch 2,27cb6f2a-8da0-4097-be0f-051b1b66b5a9,B-2025-07,1,0,2025-12-14 14:42:50,2026-03-31 09:53:00
+8828d9cd-d9f6-40f7-afde-da89b1743e03,Data Analyst Bootcamp - Batch 3,27cb6f2a-8da0-4097-be0f-051b1b66b5a9,B-2026-03,1,0,2026-05-25 14:42:50,2026-05-25 14:42:50
+f2c1e33d-f7c2-4c20-9dbf-4277589e4b66,SEO & Content Marketing - Batch 1,4c66e0a8-a013-4c6e-9eda-4e161b3dbd5c,B-2025-08,1,0,2025-06-20 13:13:57,2025-06-20 13:13:57
+54f63c68-d9ff-4af9-95bf-0d58023702d6,SEO & Content Marketing - Batch 2,4c66e0a8-a013-4c6e-9eda-4e161b3dbd5c,B-2025-09,1,0,2025-11-26 13:13:57,2025-11-26 13:13:57
+dea73968-845c-476e-930e-ea1ad2984539,SEO & Content Marketing - Batch 3,4c66e0a8-a013-4c6e-9eda-4e161b3dbd5c,B-2026-04,0,0,2026-07-11 13:13:57,2026-07-31 08:28:07
+482ba1a0-cdea-445c-8239-e970da96e847,UI/UX Design with Figma - Batch 1,fce68504-87f8-424d-aae6-5fc176f2dbfe,B-2025-10,1,0,2025-05-05 10:41:34,2025-05-05 10:41:34
+9578ce6b-2cac-4acd-8b70-a26c01426da5,Product Design Fundamentals - Batch 1,ebb7a385-aa0b-4b14-b2e9-702d11e9cdaa,B-2025-11,1,0,2025-10-01 21:57:54,2025-11-11 04:27:35
+eb39d038-8c32-4a53-b897-45027b55ddcd,Product Design Fundamentals - Batch 2,ebb7a385-aa0b-4b14-b2e9-702d11e9cdaa,B-2026-05,1,0,2026-04-10 21:57:54,2026-06-19 21:54:09
+cf0523c5-0c23-4bb7-890b-bcd25600c174,Python Programming Masterclass - Batch 1,3d1a85dd-506e-4a9a-b758-588dab73295b,B-2025-12,1,0,2025-06-05 16:51:37,2025-06-05 16:51:37
+2e516039-e5a5-423f-9509-bb739f1a47c7,Python Programming Masterclass - Batch 2,3d1a85dd-506e-4a9a-b758-588dab73295b,B-2025-13,1,0,2025-12-09 16:51:37,2025-12-09 16:51:37
+eb633ae2-9ea2-4c30-ad88-11bad6c3d78f,Python Programming Masterclass - Batch 3,3d1a85dd-506e-4a9a-b758-588dab73295b,B-2026-06,1,0,2026-08-03 16:51:37,2026-08-03 16:51:37
+5452dd67-475e-4bbe-8b0e-c40b54a5031f,SQL for Business Analysts - Batch 1,a2086977-a9f2-4336-83f4-a9a948a639d0,B-2025-14,1,0,2025-06-29 22:01:46,2025-06-29 22:01:46
+1d947769-0117-4e35-8713-15143c504abb,Python Problem Solving for Interviews - Batch 1,27cb6f2a-8da0-4097-be0f-051b1b66b5a9,B-2025-15,0,0,2025-07-01 10:10:47,2025-07-01 10:10:47
+2e973a61-6f59-409b-9a21-0ec8f66a65bb,Google Ads & Performance Marketing - Batch 1,3d1a85dd-506e-4a9a-b758-588dab73295b,B-2025-16,1,0,2025-07-31 13:36:59,2025-09-19 06:42:32
+3573947e-94d8-43d1-b2c3-681afce52055,Google Ads & Performance Marketing - Batch 2,3d1a85dd-506e-4a9a-b758-588dab73295b,B-2026-07,1,0,2026-01-21 13:36:59,2026-01-21 13:36:59
+4b6b4bfc-c9a1-4b15-894d-c24a872a14b3,Tableau for Data Analysts - Batch 1,a2086977-a9f2-4336-83f4-a9a948a639d0,B-2025-17,1,0,2025-05-31 03:48:01,2026-02-26 14:26:33
+e3182010-ebce-4534-9e6b-8a7668393ff5,Tableau for Data Analysts - Batch 2,a2086977-a9f2-4336-83f4-a9a948a639d0,B-2025-18,1,0,2025-10-04 03:48:01,2026-05-07 11:02:14
+b383d8aa-21df-423e-b48b-544c22d7a7cd,Social Media Marketing - Batch 1,dc570131-f8e1-4aa7-8bce-abdeeededb07,B-2026-08,0,0,2026-04-20 03:41:13,2026-04-20 03:41:13
+84b9cc5a-4098-40ba-9d00-841e55d56d09,Responsive Web Design - Batch 1,5f987c71-a65e-488e-abf3-ad39fec21bbe,B-2025-19,1,0,2025-08-28 22:26:03,2026-02-25 04:27:01
+219e2a6e-08fd-45d2-a0f6-e5fd1a25b90f,Responsive Web Design - Batch 2,5f987c71-a65e-488e-abf3-ad39fec21bbe,B-2026-09,1,0,2026-04-24 22:26:03,2026-10-21 07:40:08
+acd912a8-f5d1-4b01-b0a3-5b53d6456a4b,Marketing Analytics with Google Analytics - Batch 1,27cb6f2a-8da0-4097-be0f-051b1b66b5a9,B-2025-20,1,0,2025-10-23 22:59:51,2025-10-23 22:59:51
+e88f823d-c01d-4f41-b729-41aba68b9e0c,Marketing Analytics with Google Analytics - Batch 2,27cb6f2a-8da0-4097-be0f-051b1b66b5a9,B-2026-10,1,0,2026-04-22 22:59:51,2026-04-22 22:59:51
+dc9056aa-3024-4e0b-ab1a-48b85a261a82,Backend Development with Node.js - Batch 1,a748dbcf-ac61-4e63-8dde-29a6baa4b71a,B-2025-21,1,0,2025-04-22 09:08:13,2025-04-22 09:08:13
+35af5a55-1395-4e6f-a023-9bac214b836f,Backend Development with Node.js - Batch 2,a748dbcf-ac61-4e63-8dde-29a6baa4b71a,B-2025-22,1,0,2025-09-30 09:08:13,2026-04-29 20:31:54
+6524cdb1-e7fa-4da4-8c28-0c1acc463570,Quantitative Aptitude & Reasoning - Batch 1,fce68504-87f8-424d-aae6-5fc176f2dbfe,B-2025-23,1,0,2025-04-27 11:10:58,2025-12-15 13:21:41
+82ba6beb-dc9c-43eb-9f61-97b458c26f68,Quantitative Aptitude & Reasoning - Batch 2,fce68504-87f8-424d-aae6-5fc176f2dbfe,B-2025-24,1,0,2025-10-11 11:10:58,2026-01-09 10:17:14
+b56a24a0-537b-4436-aed9-a39d5a881ca4,Quantitative Aptitude & Reasoning - Batch 3,fce68504-87f8-424d-aae6-5fc176f2dbfe,B-2026-11,0,0,2026-06-12 11:10:58,2026-06-18 01:02:18
+b473dcb1-85f7-4f5e-a9ab-7301ea34eefd,Power BI for Business Analysts - Batch 1,5cabcc97-663f-4c97-9562-69f0e5d7b875,B-2025-25,1,0,2025-04-20 13:32:48,2025-05-22 19:13:48
+d58ce487-50eb-4a02-ace2-2b67e94d1133,Power BI for Business Analysts - Batch 2,5cabcc97-663f-4c97-9562-69f0e5d7b875,B-2025-26,0,0,2025-10-02 13:32:48,2026-05-19 10:31:06

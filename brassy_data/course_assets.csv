@@ -1,0 +1,130 @@
+id,lecture_name,lecture_file,courseId,created_at,updated_at
+902369ab-4864-4025-be41-862045b4a13e,Lecture 1 Notes - Digital Marketing Masterclass,/uploads/assets/ebf1f6a4.pdf,e80f58fb-2d0f-4209-a409-33ecc68b751f,2025-08-25 20:45:15,2025-08-25 20:45:15
+0cc8fa21-b601-45b2-81c3-63cd7add3695,Lecture 2 Notes - Digital Marketing Masterclass,/uploads/assets/f7d9f605.pdf,e80f58fb-2d0f-4209-a409-33ecc68b751f,2025-08-22 20:45:15,2025-08-22 20:45:15
+4f26de21-4e61-4e34-a548-dfc876da3747,Lecture 3 Notes - Digital Marketing Masterclass,/uploads/assets/6f6d18c6.pdf,e80f58fb-2d0f-4209-a409-33ecc68b751f,2025-08-30 20:45:15,2025-08-30 20:45:15
+72a4bac6-9288-48f6-8c38-f15a66a247b7,Lecture 4 Notes - Digital Marketing Masterclass,/uploads/assets/4f3c0388.pdf,e80f58fb-2d0f-4209-a409-33ecc68b751f,2025-08-28 20:45:15,2025-08-28 20:45:15
+62ba6966-3388-4f1b-90f3-83cd6b775489,Lecture 5 Notes - Digital Marketing Masterclass,/uploads/assets/b0cce109.pdf,e80f58fb-2d0f-4209-a409-33ecc68b751f,2025-08-15 20:45:15,2025-08-15 20:45:15
+8d5af123-085d-47e6-872c-5869d4c933f2,Lecture 1 Notes - Data Analysis with Python & Pandas,/uploads/assets/f3151b0a.pdf,62d8d220-bd36-404a-96bf-bee009a27373,2025-07-09 13:06:53,2025-07-09 13:06:53
+e5ae01ed-b535-4bf3-b5f4-149f5054b5ba,Lecture 2 Notes - Data Analysis with Python & Pandas,/uploads/assets/47d41385.pdf,62d8d220-bd36-404a-96bf-bee009a27373,2025-07-12 13:06:53,2025-07-12 13:06:53
+0cd4dd15-f592-478d-9523-175bc0d5dc17,Lecture 3 Notes - Data Analysis with Python & Pandas,/uploads/assets/a760a7df.pdf,62d8d220-bd36-404a-96bf-bee009a27373,2025-07-04 13:06:53,2025-07-04 13:06:53
+7cbf66b4-f8e7-4535-a9a4-5be4a589c017,Lecture 4 Notes - Data Analysis with Python & Pandas,/uploads/assets/107d4224.pdf,62d8d220-bd36-404a-96bf-bee009a27373,2025-06-24 13:06:53,2025-06-24 13:06:53
+099c3693-fe59-489f-b035-fa61437478bd,Lecture 5 Notes - Data Analysis with Python & Pandas,/uploads/assets/518ba376.pdf,62d8d220-bd36-404a-96bf-bee009a27373,2025-07-06 13:06:53,2025-07-06 13:06:53
+7fc4bd3f-84c0-4bed-9732-bacd8090661f,Lecture 1 Notes - Data Visualization with Power BI,/uploads/assets/ec2597eb.pdf,2e616bd7-569d-4aeb-a40e-50e76c1056b3,2025-09-25 05:26:05,2025-09-25 05:26:05
+0553c66b-76f1-48e8-855d-c6140301a06c,Lecture 2 Notes - Data Visualization with Power BI,/uploads/assets/dc34d926.pdf,2e616bd7-569d-4aeb-a40e-50e76c1056b3,2025-09-26 05:26:05,2025-09-26 05:26:05
+bf7ca627-325b-4c88-afad-d4b5590bbfbc,Lecture 1 Notes - Mobile App UI Design,/uploads/assets/31821fde.pdf,7f309761-72bc-491a-ae8f-191fc9bbdda4,2025-04-28 20:36:54,2025-04-28 20:36:54
+18ab202b-df7a-47b0-b044-f29765623354,Lecture 2 Notes - Mobile App UI Design,/uploads/assets/0be1bd38.pdf,7f309761-72bc-491a-ae8f-191fc9bbdda4,2025-05-15 20:36:54,2025-05-15 20:36:54
+aab09b08-4e1c-4d6a-bb82-ff4c54730446,Lecture 1 Notes - Statistics for Data Analysis,/uploads/assets/3ca97d02.pdf,ecc69033-296e-44d5-b069-acba8d9b4935,2025-05-31 14:54:54,2025-05-31 14:54:54
+430ca1a0-7946-493c-bca5-0ac298523535,Lecture 2 Notes - Statistics for Data Analysis,/uploads/assets/feae0fb8.pdf,ecc69033-296e-44d5-b069-acba8d9b4935,2025-06-18 14:54:54,2025-06-18 14:54:54
+fbf7ad20-6a7e-45d2-98fe-79a18da72e1a,Lecture 3 Notes - Statistics for Data Analysis,/uploads/assets/263d979a.pdf,ecc69033-296e-44d5-b069-acba8d9b4935,2025-06-02 14:54:54,2025-06-02 14:54:54
+4f75d392-fca7-4614-90b7-ca01eea0e30e,Lecture 1 Notes - Interview Skills & Resume Building,/uploads/assets/6563c7d9.pdf,1a110a4f-673e-49fe-adc7-7c49c2806fd5,2025-06-13 07:58:18,2025-06-13 07:58:18
+41c7a406-9359-4b5d-9ac7-25209670efb3,Lecture 2 Notes - Interview Skills & Resume Building,/uploads/assets/cb3ada7f.pdf,1a110a4f-673e-49fe-adc7-7c49c2806fd5,2025-05-30 07:58:18,2025-05-30 07:58:18
+5769993c-e7f1-4c14-b8bf-491d4311fb26,Lecture 3 Notes - Interview Skills & Resume Building,/uploads/assets/933ac61c.pdf,1a110a4f-673e-49fe-adc7-7c49c2806fd5,2025-06-08 07:58:18,2025-06-08 07:58:18
+097452d8-b082-4958-876c-1833ca50e117,Lecture 4 Notes - Interview Skills & Resume Building,/uploads/assets/9877c24c.pdf,1a110a4f-673e-49fe-adc7-7c49c2806fd5,2025-06-13 07:58:18,2025-06-13 07:58:18
+93d3125a-3a56-44b3-bacd-003a571cdfbf,Lecture 5 Notes - Interview Skills & Resume Building,/uploads/assets/3be45056.pdf,1a110a4f-673e-49fe-adc7-7c49c2806fd5,2025-06-12 07:58:18,2025-06-12 07:58:18
+3fd6f99e-ea03-486f-97d6-6988013319d1,Lecture 1 Notes - Design Thinking Workshop,/uploads/assets/150b8146.pdf,63ce0666-4b78-4b1f-a68a-84572b924e09,2025-08-21 10:20:32,2025-08-21 10:20:32
+11958966-41a5-4d68-8140-4d41cea72521,Lecture 2 Notes - Design Thinking Workshop,/uploads/assets/698681df.pdf,63ce0666-4b78-4b1f-a68a-84572b924e09,2025-08-20 10:20:32,2025-08-20 10:20:32
+9f9a8a33-1ad6-4f7b-a4af-65aa08f343a9,Lecture 3 Notes - Design Thinking Workshop,/uploads/assets/f57a7220.pdf,63ce0666-4b78-4b1f-a68a-84572b924e09,2025-08-10 10:20:32,2025-08-10 10:20:32
+55b2f82a-3469-40de-a442-c26ca27589cd,Lecture 4 Notes - Design Thinking Workshop,/uploads/assets/a28322e8.pdf,63ce0666-4b78-4b1f-a68a-84572b924e09,2025-08-18 10:20:32,2025-08-18 10:20:32
+0af875b2-43fe-4d09-9407-3daa68db3370,Lecture 5 Notes - Design Thinking Workshop,/uploads/assets/1fdb482d.pdf,63ce0666-4b78-4b1f-a68a-84572b924e09,2025-08-17 10:20:32,2025-08-17 10:20:32
+68353c7e-3eb0-49ec-8e6f-c9d441bff5b9,Lecture 1 Notes - Data Analyst Bootcamp,/uploads/assets/250b0aeb.pdf,ef022c92-2262-4ad8-ac16-a78b35624347,2025-06-09 13:16:50,2025-06-09 13:16:50
+db591d88-4b0a-41e0-8d31-5b7cc273973b,Lecture 2 Notes - Data Analyst Bootcamp,/uploads/assets/21ba0416.pdf,ef022c92-2262-4ad8-ac16-a78b35624347,2025-06-02 13:16:50,2025-06-02 13:16:50
+a2cbc85c-3069-4e7c-84a6-dca6f908017b,Lecture 1 Notes - SEO & Content Marketing,/uploads/assets/aa2bcaa7.pdf,f45045ad-2454-4c98-9510-71bcc15d3abb,2025-06-24 11:19:57,2025-06-24 11:19:57
+52eddbdb-3415-43df-9cee-cd7b11838d86,Lecture 2 Notes - SEO & Content Marketing,/uploads/assets/69b20a83.pdf,f45045ad-2454-4c98-9510-71bcc15d3abb,2025-06-20 11:19:57,2025-06-20 11:19:57
+60040d0d-5257-431b-b24c-5cd007ac3372,Lecture 3 Notes - SEO & Content Marketing,/uploads/assets/98e41835.pdf,f45045ad-2454-4c98-9510-71bcc15d3abb,2025-07-03 11:19:57,2025-07-03 11:19:57
+b43cdbe2-e3fc-4221-94fe-41ec488bd31f,Lecture 4 Notes - SEO & Content Marketing,/uploads/assets/6e93c789.pdf,f45045ad-2454-4c98-9510-71bcc15d3abb,2025-06-28 11:19:57,2025-06-28 11:19:57
+084d93a6-46a9-48c5-8ebe-11c816e7350e,Lecture 1 Notes - Business Analyst Bootcamp,/uploads/assets/4c3d8a35.pdf,81ca7732-b04f-483c-9773-3d21e906222b,2025-08-20 01:04:56,2025-08-20 01:04:56
+1b6046ee-3d9e-433b-9de5-0fa3d033dd5e,Lecture 2 Notes - Business Analyst Bootcamp,/uploads/assets/bf5eaf8e.pdf,81ca7732-b04f-483c-9773-3d21e906222b,2025-09-02 01:04:56,2025-09-02 01:04:56
+17edceb8-1739-4cff-8cc9-90524f52ddca,Lecture 1 Notes - UI/UX Design with Figma,/uploads/assets/d1f7ab45.pdf,5ad2c420-f09d-4a8a-bcd9-915dc2b408fc,2025-05-12 09:09:34,2025-05-12 09:09:34
+e97e55d4-46b0-4ed1-82d4-705de1661e4d,Lecture 2 Notes - UI/UX Design with Figma,/uploads/assets/c4ca0233.pdf,5ad2c420-f09d-4a8a-bcd9-915dc2b408fc,2025-05-08 09:09:34,2025-05-08 09:09:34
+cef24e8a-d1fc-4fa4-816c-aa347d96e941,Lecture 3 Notes - UI/UX Design with Figma,/uploads/assets/db038997.pdf,5ad2c420-f09d-4a8a-bcd9-915dc2b408fc,2025-05-09 09:09:34,2025-05-09 09:09:34
+8d4363a2-3f2d-4955-b8f3-0ce351ef467b,Lecture 4 Notes - UI/UX Design with Figma,/uploads/assets/c3d1b0b7.pdf,5ad2c420-f09d-4a8a-bcd9-915dc2b408fc,2025-05-08 09:09:34,2025-05-08 09:09:34
+2e25acf4-34cc-4768-ba88-54547497d326,Lecture 1 Notes - Business Analysis Fundamentals,/uploads/assets/2ce9b6cb.pdf,5f42feab-979f-4b27-bbf5-337a224ceee6,2025-07-15 04:40:42,2025-07-15 04:40:42
+1b3e2271-1a71-4bdf-bb6d-e07125b08a57,Lecture 2 Notes - Business Analysis Fundamentals,/uploads/assets/76fc61e3.pdf,5f42feab-979f-4b27-bbf5-337a224ceee6,2025-07-31 04:40:42,2025-07-31 04:40:42
+6d0982b7-7d76-4a43-a312-e7dda6b83e23,Lecture 3 Notes - Business Analysis Fundamentals,/uploads/assets/7de7e713.pdf,5f42feab-979f-4b27-bbf5-337a224ceee6,2025-07-22 04:40:42,2025-07-22 04:40:42
+c7893c91-0ea5-402b-aa14-eafd6c456d93,Lecture 4 Notes - Business Analysis Fundamentals,/uploads/assets/e20ef794.pdf,5f42feab-979f-4b27-bbf5-337a224ceee6,2025-07-14 04:40:42,2025-07-14 04:40:42
+44a912f7-49f8-4292-9d30-6afa5f380b5b,Lecture 5 Notes - Business Analysis Fundamentals,/uploads/assets/93be6e0f.pdf,5f42feab-979f-4b27-bbf5-337a224ceee6,2025-07-28 04:40:42,2025-07-28 04:40:42
+01adf395-2c5e-405e-b4cf-6b7f3f4cd64f,Lecture 1 Notes - Front-End Development with React,/uploads/assets/5b867d34.pdf,ce74ec56-db42-4295-95a2-b7e4351399ed,2025-07-12 11:51:25,2025-07-12 11:51:25
+5fce2980-cf41-405c-a76a-33350a6dbd8b,Lecture 2 Notes - Front-End Development with React,/uploads/assets/54d5a185.pdf,ce74ec56-db42-4295-95a2-b7e4351399ed,2025-07-08 11:51:25,2025-07-08 11:51:25
+1d0fc8c2-0f33-4fe5-b932-68efda7f6f61,Lecture 3 Notes - Front-End Development with React,/uploads/assets/39eb005a.pdf,ce74ec56-db42-4295-95a2-b7e4351399ed,2025-07-17 11:51:25,2025-07-17 11:51:25
+b7c92e13-cbd4-48db-941c-8f78489f3f1a,Lecture 4 Notes - Front-End Development with React,/uploads/assets/39dd843f.pdf,ce74ec56-db42-4295-95a2-b7e4351399ed,2025-07-16 11:51:25,2025-07-16 11:51:25
+c1467fee-0235-4b4f-99b1-64cade9c8ed1,Lecture 1 Notes - Email Marketing & Automation,/uploads/assets/5a487fd6.pdf,97939217-29c8-488c-ab4c-864364e4abc2,2025-06-06 16:35:38,2025-06-06 16:35:38
+e2073d92-c1c6-4bbb-ab02-38ae67de3fca,Lecture 2 Notes - Email Marketing & Automation,/uploads/assets/2c0ef6cf.pdf,97939217-29c8-488c-ab4c-864364e4abc2,2025-06-21 16:35:38,2025-06-21 16:35:38
+c2aec132-96c7-4cad-b04e-d61b6943b154,Lecture 3 Notes - Email Marketing & Automation,/uploads/assets/a5680f62.pdf,97939217-29c8-488c-ab4c-864364e4abc2,2025-06-18 16:35:38,2025-06-18 16:35:38
+416a4f9f-9295-4162-a383-3b28d2ec1379,Lecture 1 Notes - Product Design Fundamentals,/uploads/assets/ff57c8d4.pdf,b3c120c3-9b01-48d2-8371-1d3fc9be5dce,2025-10-17 20:39:54,2025-10-17 20:39:54
+4b1db296-dfc8-4033-9be3-30e52a5eb81a,Lecture 2 Notes - Product Design Fundamentals,/uploads/assets/becfbc0b.pdf,b3c120c3-9b01-48d2-8371-1d3fc9be5dce,2025-10-01 20:39:54,2025-10-01 20:39:54
+230656d1-c2d5-4a58-9791-aedd60e565b6,Lecture 3 Notes - Product Design Fundamentals,/uploads/assets/0a9d484c.pdf,b3c120c3-9b01-48d2-8371-1d3fc9be5dce,2025-10-08 20:39:54,2025-10-08 20:39:54
+23956ed7-2357-448a-922d-2afe4d7ca758,Lecture 1 Notes - Python Programming Masterclass,/uploads/assets/7495d544.pdf,8038593f-3a25-4e65-96c2-6218987a8f71,2025-06-25 16:40:37,2025-06-25 16:40:37
+8f9ff3d6-db40-465c-a5dd-8a7f432a23a8,Lecture 2 Notes - Python Programming Masterclass,/uploads/assets/c3ccb51e.pdf,8038593f-3a25-4e65-96c2-6218987a8f71,2025-06-06 16:40:37,2025-06-06 16:40:37
+998f2a87-b81f-4c64-9cc1-df92af77e124,Lecture 1 Notes - SQL for Business Analysts,/uploads/assets/dbcbded5.pdf,93eff8c4-29b1-4582-8354-5cd866f7d56a,2025-07-17 21:02:46,2025-07-17 21:02:46
+67f91636-78e5-4c5b-8cc0-49ac2be6cd3f,Lecture 2 Notes - SQL for Business Analysts,/uploads/assets/8eb64f1d.pdf,93eff8c4-29b1-4582-8354-5cd866f7d56a,2025-07-02 21:02:46,2025-07-02 21:02:46
+0449464f-d736-466b-a22b-043687c73b31,Lecture 3 Notes - SQL for Business Analysts,/uploads/assets/74cf633f.pdf,93eff8c4-29b1-4582-8354-5cd866f7d56a,2025-06-30 21:02:46,2025-06-30 21:02:46
+2cdbe3ec-cdf1-4565-81e5-9ebba2b6da97,Lecture 4 Notes - SQL for Business Analysts,/uploads/assets/31d281dc.pdf,93eff8c4-29b1-4582-8354-5cd866f7d56a,2025-06-30 21:02:46,2025-06-30 21:02:46
+5378e6f6-37e5-4364-84f2-628647d61fef,Lecture 5 Notes - SQL for Business Analysts,/uploads/assets/a155b585.pdf,93eff8c4-29b1-4582-8354-5cd866f7d56a,2025-07-07 21:02:46,2025-07-07 21:02:46
+f9de4c5b-3089-45e3-befc-31958723280b,Lecture 1 Notes - UX Research & Usability Testing,/uploads/assets/279e3687.pdf,cf7d59dc-4b94-46e6-bf12-ac2cbc5c62d0,2025-08-06 02:10:49,2025-08-06 02:10:49
+01219aeb-0782-4bfb-8285-1b016707065f,Lecture 2 Notes - UX Research & Usability Testing,/uploads/assets/4c285c29.pdf,cf7d59dc-4b94-46e6-bf12-ac2cbc5c62d0,2025-07-22 02:10:49,2025-07-22 02:10:49
+b2ca0644-a881-444c-ba98-73b9a701d096,Lecture 3 Notes - UX Research & Usability Testing,/uploads/assets/25944c4e.pdf,cf7d59dc-4b94-46e6-bf12-ac2cbc5c62d0,2025-07-19 02:10:49,2025-07-19 02:10:49
+143cdd5e-bdf2-468f-8b6b-7f7a58a83686,Lecture 1 Notes - Full Stack Development with Python & Django,/uploads/assets/186e8180.pdf,044550e7-1e42-4e2d-8cee-d03837bcf79a,2025-05-02 13:18:46,2025-05-02 13:18:46
+42b4d955-73af-4d34-95cd-8ed2e52baa7c,Lecture 2 Notes - Full Stack Development with Python & Django,/uploads/assets/9e80e9b9.pdf,044550e7-1e42-4e2d-8cee-d03837bcf79a,2025-05-01 13:18:46,2025-05-01 13:18:46
+688c2b33-cfc6-4c97-b831-a42e3c1782b6,Lecture 1 Notes - Python Problem Solving for Interviews,/uploads/assets/d72199da.pdf,02e51343-48f9-45a1-8cf2-b53400b07a66,2025-07-01 08:32:47,2025-07-01 08:32:47
+07cdc1e3-6c4d-49e0-8ab0-d57f4f41be69,Lecture 2 Notes - Python Problem Solving for Interviews,/uploads/assets/72ebbf83.pdf,02e51343-48f9-45a1-8cf2-b53400b07a66,2025-07-05 08:32:47,2025-07-05 08:32:47
+e6dc3567-6bed-4fb2-81fd-2d6d277dcdcb,Lecture 3 Notes - Python Problem Solving for Interviews,/uploads/assets/218e942e.pdf,02e51343-48f9-45a1-8cf2-b53400b07a66,2025-07-21 08:32:47,2025-07-21 08:32:47
+10196aac-fe8a-4951-8cbe-2f515a7324eb,Lecture 4 Notes - Python Problem Solving for Interviews,/uploads/assets/06f4d1bb.pdf,02e51343-48f9-45a1-8cf2-b53400b07a66,2025-07-07 08:32:47,2025-07-07 08:32:47
+ae4f26c6-32f4-4b84-b473-db445fdc889f,Lecture 5 Notes - Python Problem Solving for Interviews,/uploads/assets/3afb7580.pdf,02e51343-48f9-45a1-8cf2-b53400b07a66,2025-07-03 08:32:47,2025-07-03 08:32:47
+11c6d2ab-9f51-4516-9bfe-7b18b091e536,"Lecture 1 Notes - HTML, CSS & JavaScript Foundations",/uploads/assets/389c730c.pdf,4172f01c-2de2-4a2b-a102-c5ad5f986ebb,2025-07-24 04:28:22,2025-07-24 04:28:22
+d5141f05-b774-495e-80f7-bcd2078a53cf,"Lecture 2 Notes - HTML, CSS & JavaScript Foundations",/uploads/assets/fc141344.pdf,4172f01c-2de2-4a2b-a102-c5ad5f986ebb,2025-07-09 04:28:22,2025-07-09 04:28:22
+2f2e9dbd-279c-468e-ac66-364736a44599,"Lecture 3 Notes - HTML, CSS & JavaScript Foundations",/uploads/assets/fe2e6163.pdf,4172f01c-2de2-4a2b-a102-c5ad5f986ebb,2025-07-13 04:28:22,2025-07-13 04:28:22
+e9e26867-268a-4d9b-8771-f56cb9865ad2,"Lecture 4 Notes - HTML, CSS & JavaScript Foundations",/uploads/assets/77aa1c1a.pdf,4172f01c-2de2-4a2b-a102-c5ad5f986ebb,2025-07-26 04:28:22,2025-07-26 04:28:22
+134f86ef-f071-4a6a-b429-17d737e56349,"Lecture 5 Notes - HTML, CSS & JavaScript Foundations",/uploads/assets/81986c1d.pdf,4172f01c-2de2-4a2b-a102-c5ad5f986ebb,2025-07-20 04:28:22,2025-07-20 04:28:22
+f8f7ccbe-8bf1-4e1e-a842-7c3f546f97fb,Lecture 1 Notes - Agile & Scrum for Business Analysts,/uploads/assets/634f9108.pdf,0d677625-5c8b-4c02-8efa-9f513513ee53,2025-07-17 20:18:19,2025-07-17 20:18:19
+13b8905e-b291-49a9-a269-53e60caa73c9,Lecture 2 Notes - Agile & Scrum for Business Analysts,/uploads/assets/b2aa1712.pdf,0d677625-5c8b-4c02-8efa-9f513513ee53,2025-08-01 20:18:19,2025-08-01 20:18:19
+669bbff2-5ebd-4c93-a476-8af193563b72,Lecture 3 Notes - Agile & Scrum for Business Analysts,/uploads/assets/fac34112.pdf,0d677625-5c8b-4c02-8efa-9f513513ee53,2025-07-24 20:18:19,2025-07-24 20:18:19
+deaddc99-f8f3-40f4-8956-c35c99761ae3,Lecture 4 Notes - Agile & Scrum for Business Analysts,/uploads/assets/0645b998.pdf,0d677625-5c8b-4c02-8efa-9f513513ee53,2025-08-03 20:18:19,2025-08-03 20:18:19
+719e5eb1-afcb-4996-adaa-664783eb9c88,Lecture 5 Notes - Agile & Scrum for Business Analysts,/uploads/assets/c6694eaf.pdf,0d677625-5c8b-4c02-8efa-9f513513ee53,2025-07-26 20:18:19,2025-07-26 20:18:19
+b242c5dc-657c-4dac-9fb0-d43f851eb39e,Lecture 1 Notes - Excel for Data Analysis,/uploads/assets/46c5ab95.pdf,0cfa5dd9-1e8c-4c82-8dd1-f547651cd985,2026-05-17 03:09:55,2026-05-17 03:09:55
+3ea42c00-28bf-4858-ab97-c617920faa6a,Lecture 2 Notes - Excel for Data Analysis,/uploads/assets/2b16b591.pdf,0cfa5dd9-1e8c-4c82-8dd1-f547651cd985,2026-04-30 03:09:55,2026-04-30 03:09:55
+5c4febf6-a490-4e72-bca0-cdb407f800a2,Lecture 3 Notes - Excel for Data Analysis,/uploads/assets/b7680e3d.pdf,0cfa5dd9-1e8c-4c82-8dd1-f547651cd985,2026-05-10 03:09:55,2026-05-10 03:09:55
+75912faf-2a6e-4a4c-87aa-dc66c1b9f9a5,Lecture 4 Notes - Excel for Data Analysis,/uploads/assets/4ae39c1e.pdf,0cfa5dd9-1e8c-4c82-8dd1-f547651cd985,2026-05-16 03:09:55,2026-05-16 03:09:55
+fb5ae35a-5e1d-42e2-8fa9-77fc0b7246e2,Lecture 1 Notes - MySQL Database Administration,/uploads/assets/1acbb1ba.pdf,ea2d97c8-a469-4111-b773-84cda83e78b1,2025-09-05 21:16:32,2025-09-05 21:16:32
+e3447f1d-4efe-4cf1-905b-2fdc4fb581b3,Lecture 2 Notes - MySQL Database Administration,/uploads/assets/a6c2325b.pdf,ea2d97c8-a469-4111-b773-84cda83e78b1,2025-08-30 21:16:32,2025-08-30 21:16:32
+3a10fd0f-efab-44b5-a702-a9a1c0a6a43b,Lecture 3 Notes - MySQL Database Administration,/uploads/assets/529cbc09.pdf,ea2d97c8-a469-4111-b773-84cda83e78b1,2025-08-31 21:16:32,2025-08-31 21:16:32
+fd901bcb-8927-4f04-a68d-7b7232cdc1d0,Lecture 4 Notes - MySQL Database Administration,/uploads/assets/a0b68808.pdf,ea2d97c8-a469-4111-b773-84cda83e78b1,2025-08-29 21:16:32,2025-08-29 21:16:32
+6bc515b3-e41f-4845-b880-446d8dc10914,Lecture 1 Notes - Full Stack Web Development with MERN,/uploads/assets/bd88d958.pdf,4d741fac-f938-493c-a389-05fd3b6c4438,2025-07-24 10:42:34,2025-07-24 10:42:34
+73cc8561-dd3f-4d3b-b96f-326618027280,Lecture 2 Notes - Full Stack Web Development with MERN,/uploads/assets/26540ba4.pdf,4d741fac-f938-493c-a389-05fd3b6c4438,2025-07-11 10:42:34,2025-07-11 10:42:34
+6752aefb-d072-4994-86ad-0f264def1085,Lecture 3 Notes - Full Stack Web Development with MERN,/uploads/assets/06e308f5.pdf,4d741fac-f938-493c-a389-05fd3b6c4438,2025-07-31 10:42:34,2025-07-31 10:42:34
+c6e09031-3ecc-490a-b617-050a2a094fde,Lecture 4 Notes - Full Stack Web Development with MERN,/uploads/assets/753a531b.pdf,4d741fac-f938-493c-a389-05fd3b6c4438,2025-07-30 10:42:34,2025-07-30 10:42:34
+5c497fba-e870-4ff9-a53c-669ad9f9b008,Lecture 5 Notes - Full Stack Web Development with MERN,/uploads/assets/23de6993.pdf,4d741fac-f938-493c-a389-05fd3b6c4438,2025-07-20 10:42:34,2025-07-20 10:42:34
+bd10a6f2-51db-417f-818f-69ac134c9e86,Lecture 1 Notes - Requirement Gathering & Documentation,/uploads/assets/04e34cb1.pdf,c01cb5b4-c844-48ba-95a5-7efe914eff49,2025-07-29 01:46:37,2025-07-29 01:46:37
+6ca67438-66dc-4f3d-9c23-7929fbacb2e8,Lecture 2 Notes - Requirement Gathering & Documentation,/uploads/assets/d94b413c.pdf,c01cb5b4-c844-48ba-95a5-7efe914eff49,2025-07-22 01:46:37,2025-07-22 01:46:37
+ce706e5a-7f42-40cb-85eb-49253eae0a11,Lecture 1 Notes - SQL for Data Analysts,/uploads/assets/612981b0.pdf,0c14bea9-2d14-40be-aa32-e76f2f270678,2025-04-22 06:06:07,2025-04-22 06:06:07
+c6676b08-2a82-407a-b0ee-1d5478b63685,Lecture 2 Notes - SQL for Data Analysts,/uploads/assets/f167749b.pdf,0c14bea9-2d14-40be-aa32-e76f2f270678,2025-04-23 06:06:07,2025-04-23 06:06:07
+e89c8fca-22ff-49fc-912e-5e8e4c901c59,Lecture 1 Notes - Google Ads & Performance Marketing,/uploads/assets/1338a251.pdf,92e73ba5-466c-4add-bb5e-d05462f80d94,2025-08-20 13:18:59,2025-08-20 13:18:59
+79f7c40f-6fa6-4bcc-b841-b86c368f79b8,Lecture 2 Notes - Google Ads & Performance Marketing,/uploads/assets/7da8f7d7.pdf,92e73ba5-466c-4add-bb5e-d05462f80d94,2025-08-19 13:18:59,2025-08-19 13:18:59
+30017603-6dbf-4fbc-9c35-2b5a4b688c40,Lecture 3 Notes - Google Ads & Performance Marketing,/uploads/assets/8dda0124.pdf,92e73ba5-466c-4add-bb5e-d05462f80d94,2025-08-12 13:18:59,2025-08-12 13:18:59
+7fd33daf-a31c-4761-ab00-2062099a344a,Lecture 4 Notes - Google Ads & Performance Marketing,/uploads/assets/1c77857a.pdf,92e73ba5-466c-4add-bb5e-d05462f80d94,2025-08-02 13:18:59,2025-08-02 13:18:59
+ffae7699-93dd-49ce-884f-20dc1f42e0cd,Lecture 5 Notes - Google Ads & Performance Marketing,/uploads/assets/a433ce4e.pdf,92e73ba5-466c-4add-bb5e-d05462f80d94,2025-08-12 13:18:59,2025-08-12 13:18:59
+52bacd95-8d73-43f8-94f9-9b39d0775ab4,Lecture 1 Notes - Tableau for Data Analysts,/uploads/assets/7e346174.pdf,a9d87a64-98c8-4b51-a934-fa890d287eec,2025-06-10 02:41:01,2025-06-10 02:41:01
+b2a7c9b5-4e5a-446b-9279-68e997a4acb5,Lecture 2 Notes - Tableau for Data Analysts,/uploads/assets/c2728e4a.pdf,a9d87a64-98c8-4b51-a934-fa890d287eec,2025-06-11 02:41:01,2025-06-11 02:41:01
+6b012fae-0b8a-43b1-a6b6-99a62f58a848,Lecture 1 Notes - Social Media Marketing,/uploads/assets/0c7acf96.pdf,e4d43692-5bfa-4c97-8c4c-2c7db08122b0,2026-04-20 01:58:13,2026-04-20 01:58:13
+3e573ce2-a49a-4b02-bd46-aa7f93928100,Lecture 2 Notes - Social Media Marketing,/uploads/assets/39c702ee.pdf,e4d43692-5bfa-4c97-8c4c-2c7db08122b0,2026-04-23 01:58:13,2026-04-23 01:58:13
+9a8c4492-15b2-4915-bcba-07569aac8b79,Lecture 3 Notes - Social Media Marketing,/uploads/assets/a5689f3a.pdf,e4d43692-5bfa-4c97-8c4c-2c7db08122b0,2026-05-05 01:58:13,2026-05-05 01:58:13
+a5e55d3a-94ee-42af-b56f-89942f0dfbce,Lecture 4 Notes - Social Media Marketing,/uploads/assets/6074d781.pdf,e4d43692-5bfa-4c97-8c4c-2c7db08122b0,2026-04-20 01:58:13,2026-04-20 01:58:13
+db665e25-fbe5-4218-8cd3-9b4e7622d679,Lecture 1 Notes - Responsive Web Design,/uploads/assets/b3010c84.pdf,4f21768d-9986-43d9-b846-9cb35a990478,2025-09-12 22:18:03,2025-09-12 22:18:03
+f8f383d1-584a-43d5-a924-25d649709b55,Lecture 2 Notes - Responsive Web Design,/uploads/assets/76b12e05.pdf,4f21768d-9986-43d9-b846-9cb35a990478,2025-08-28 22:18:03,2025-08-28 22:18:03
+850e7e3a-dd30-4848-9dc0-6c565fa2f598,Lecture 3 Notes - Responsive Web Design,/uploads/assets/0d4be935.pdf,4f21768d-9986-43d9-b846-9cb35a990478,2025-09-01 22:18:03,2025-09-01 22:18:03
+a654b58b-3aec-460f-b41f-e7010633c388,Lecture 4 Notes - Responsive Web Design,/uploads/assets/17f6a4cf.pdf,4f21768d-9986-43d9-b846-9cb35a990478,2025-09-11 22:18:03,2025-09-11 22:18:03
+416dea26-3089-4e76-9ffb-04563516d066,Lecture 1 Notes - Marketing Analytics with Google Analytics,/uploads/assets/112532b3.pdf,914035e8-ed2c-4c5a-8e5c-969bb183adf9,2025-11-09 22:20:51,2025-11-09 22:20:51
+709240bc-53c0-4a59-ac07-03795907f268,Lecture 2 Notes - Marketing Analytics with Google Analytics,/uploads/assets/5e9f40f8.pdf,914035e8-ed2c-4c5a-8e5c-969bb183adf9,2025-11-10 22:20:51,2025-11-10 22:20:51
+fcc584be-3d4a-4466-b3ac-ca685d5ffefd,Lecture 3 Notes - Marketing Analytics with Google Analytics,/uploads/assets/97e058b9.pdf,914035e8-ed2c-4c5a-8e5c-969bb183adf9,2025-10-30 22:20:51,2025-10-30 22:20:51
+634d2c50-28c2-4bfc-8844-11ef29c08f29,Lecture 4 Notes - Marketing Analytics with Google Analytics,/uploads/assets/1821b551.pdf,914035e8-ed2c-4c5a-8e5c-969bb183adf9,2025-11-08 22:20:51,2025-11-08 22:20:51
+fd04a25c-32b9-4acd-b9b9-c6d4b231e7d7,Lecture 1 Notes - Full Stack Development with Java & Spring Boot,/uploads/assets/6bba1c76.pdf,9ad10cac-7c20-4cf5-8c4d-33b56d817b6b,2025-07-08 03:04:50,2025-07-08 03:04:50
+99286625-61a2-4caa-b791-ed72e8d9fd15,Lecture 2 Notes - Full Stack Development with Java & Spring Boot,/uploads/assets/e5922f7a.pdf,9ad10cac-7c20-4cf5-8c4d-33b56d817b6b,2025-07-08 03:04:50,2025-07-08 03:04:50
+a37b16b0-b439-4cc8-9828-5c33450fa0b1,Lecture 1 Notes - Backend Development with Node.js,/uploads/assets/727c1301.pdf,8562f3ab-7180-4487-8d94-508a10e32e3b,2025-04-30 07:46:13,2025-04-30 07:46:13
+597e2005-7dc4-47dd-a395-15ead5d44c34,Lecture 2 Notes - Backend Development with Node.js,/uploads/assets/0cbf00ca.pdf,8562f3ab-7180-4487-8d94-508a10e32e3b,2025-05-09 07:46:13,2025-05-09 07:46:13
+c621068e-0443-49a8-a47e-d76e3ba049a6,Lecture 3 Notes - Backend Development with Node.js,/uploads/assets/049cd160.pdf,8562f3ab-7180-4487-8d94-508a10e32e3b,2025-05-12 07:46:13,2025-05-12 07:46:13
+c216a949-fc5e-460a-aaf2-b5ee2c164dc4,Lecture 1 Notes - Quantitative Aptitude & Reasoning,/uploads/assets/913062ca.pdf,9255bb41-2bc1-4bf7-8675-ef607e4ff60d,2025-05-05 09:21:58,2025-05-05 09:21:58
+3a2ecb54-7263-41e0-b7aa-2f40b26adae2,Lecture 2 Notes - Quantitative Aptitude & Reasoning,/uploads/assets/e830331b.pdf,9255bb41-2bc1-4bf7-8675-ef607e4ff60d,2025-04-28 09:21:58,2025-04-28 09:21:58
+50924b7f-971d-4716-b8dc-2be1d8338894,Lecture 3 Notes - Quantitative Aptitude & Reasoning,/uploads/assets/ec0dd1ff.pdf,9255bb41-2bc1-4bf7-8675-ef607e4ff60d,2025-05-01 09:21:58,2025-05-01 09:21:58
+2b8bbd4a-0e27-4ff4-a168-4d2b58a1e189,Lecture 1 Notes - Power BI for Business Analysts,/uploads/assets/665700be.pdf,5ab68220-1c24-4102-99e5-e402fe2895ad,2025-05-10 13:10:48,2025-05-10 13:10:48
+3cdc8271-0c17-42fd-a587-a1afc2e02128,Lecture 2 Notes - Power BI for Business Analysts,/uploads/assets/45aef092.pdf,5ab68220-1c24-4102-99e5-e402fe2895ad,2025-05-04 13:10:48,2025-05-04 13:10:48
+c9e6dec2-b805-44fd-87e7-2b719ac63645,Lecture 3 Notes - Power BI for Business Analysts,/uploads/assets/af51f151.pdf,5ab68220-1c24-4102-99e5-e402fe2895ad,2025-04-20 13:10:48,2025-04-20 13:10:48
+a01c6ce5-4c2f-489c-9915-96e2adee77ed,Lecture 4 Notes - Power BI for Business Analysts,/uploads/assets/b93df0b6.pdf,5ab68220-1c24-4102-99e5-e402fe2895ad,2025-05-04 13:10:48,2025-05-04 13:10:48
