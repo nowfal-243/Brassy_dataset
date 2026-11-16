@@ -8,3 +8,5 @@ All data is generated with Python and Faker. No real data is used.
 ![Overview](images/dashboard_overview.png)
 
 ![Fees and Payments dashboard](images/fees-payments.png)
+
+![Dashboard overview](images/dashboard_overview.png)
