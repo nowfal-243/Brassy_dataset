@@ -6,3 +6,5 @@ All data is generated with Python and Faker. No real data is used.
 ## Dashboard
 
 ![Overview](images/dashboard_overview.png)
+
+![Fees and Payments dashboard](images/fees-payments.png)
